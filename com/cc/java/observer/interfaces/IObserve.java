@@ -8,6 +8,6 @@ public interface IObserve {
 
     //subscribe
     public abstract void subscribe();
-    public abstract void unsubschreibe();
+    public abstract void unsubscribe();
 
 }
